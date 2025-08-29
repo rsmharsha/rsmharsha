@@ -17,4 +17,4 @@ Welcome to my repo-verse 🚀
 ---
 
 ⭐️ On a journey to grow as a Software Engineer, sharpen my skills, and give back through open source.
-**Still under active development—please check back after reboot 🔄**
+**Still under active development - please check back after reboot 🔄**
