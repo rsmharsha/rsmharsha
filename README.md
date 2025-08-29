@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Harsha  
+# Harsha.exe is running… please don’t pull the plug 💻⚡
 
 Aspiring Software Engineer.  
 Every line of code is part of my story - this is where I practice, experiment, and keep leveling up, commit by commit.  
