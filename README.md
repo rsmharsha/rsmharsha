@@ -12,8 +12,9 @@ Welcome to my repo-verse 🚀
 - **Node.js** 🌐 – Building scalable backend services and real-world applications.  
 - **Go (soon)** 🐹 – Planning to explore this efficient language for concurrency and performance.  
 - **Operating Systems** 🖥️ – Studying the building blocks that power modern software systems.  
-- **Open Source** 🌍 – Preparing to contribute and collaborate with the community on impactful projects,aiming for **GSoC 2026**.  
+- **Open Source** 🌍 – Preparing to contribute and collaborate with the community on impactful projects, aiming for **GSoC 2026**.  
 
 ---
 
-⭐️ On a journey to grow as a Software Engineer, sharpen my skills, and give back through open source.  
+⭐️ On a journey to grow as a Software Engineer, sharpen my skills, and give back through open source.
+**Still under active development—please check back after reboot 🔄**
